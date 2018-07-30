@@ -3,13 +3,13 @@
   url: /
 
 - title: Research
-  url: /research/research
+  url: /research/
 
 - title: Publications
   url: /publications/
 
-- title: Resume
-  url: /resume/
+  #- title: Resume
+  #url: /resume/
 
 - title: Teaching
   url: /teaching/
