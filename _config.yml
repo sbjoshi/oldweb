@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title: Site Title
+title: Saurabh Joshi's Homepage
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Saurabh Joshi
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
-  email: #emailaddress
+  email: sbjoshi[at]iith[dot]ac[dot]in
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
