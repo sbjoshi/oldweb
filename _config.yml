@@ -50,6 +50,9 @@ creative-commons:
   cc-by: #yes
   cc-by-nc: #yes
 
+
+gems:
+        - jekyll-last-modified-at
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
 
