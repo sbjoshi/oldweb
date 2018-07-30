@@ -1,12 +1,17 @@
+---
+layout: page
+---
+
+
 ###Research
 
 #### Research simplified
  
 An essential part of science is to be able to explain your work in simple terms to others. Here are some simple explanations by some of my students about their work in their own words.
 
-*[Uttaran Sinha](uttaran.html)
+* [Uttaran Sinha](uttaran.html)
 
-*[Eti Chaudhary](eti.html)
+* [Eti Chaudhary](eti.html)
 
 ---
 
