@@ -2,8 +2,6 @@
 layout: page
 ---
 
-
-
 ### Teaching
 
 ####  Undergraduate
