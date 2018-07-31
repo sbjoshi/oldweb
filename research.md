@@ -37,7 +37,7 @@ concurrent programs, program analysis and constraint solving
 
 #### Sponsored Project
 
-1. DST Early Career Research Award for _"Scope Enrichment of Verification Technologies"_ 2017-2020 (₹22.5 lakh)
+1. DST Early Career Research Award for _"Scope Enrichment of Verification Technologies"_ 2017-2020 (INR 22.5 lakh)
 
 ---
 
