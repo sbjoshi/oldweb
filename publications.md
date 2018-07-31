@@ -16,7 +16,7 @@ layout: page
 
 1. Subramaniam Kalyanasundaram, Anjaneya Swami Kare, and Bhyravarapu Sriram, _"On the Tractability of (k,i)-coloring"_, (CALDAM) 2018. [[arXiv](https://arxiv.org/pdf/1802.03634.pdf)]
 
-1. Vojtech Forejt, Daniel Kroening, Ganesh Narayanaswamy and Subodh Sharma, _"Precise Predictive Analysis for Discovering Communication Deadlocks in MPI Programs"_, (TOPLAS) 2017. [[pre-print](papers/toplas2017-mpi.pdf)]
+1. Vojtech Forejt, Daniel Kroening, Ganesh Narayanaswamy and Subodh Sharma, _"Precise Predictive Analysis for Discovering Communication Deadlocks in MPI Programs"_, (TOPLAS) 2017. [[pre-print](toplas2017-mpi.pdf)]
 
 1. Rajdeep Mukherjee, Andreas Griesmayer, Daniel Kroening and Tom Melham, _"Equivalence Checking of a Floating-point Unit Against a High-level C Model"_ (FM) 2016. [[arXiv](https://arxiv.org/pdf/1609.00169v1.pdf)]
 
