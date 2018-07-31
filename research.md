@@ -3,7 +3,6 @@ layout: page
 ---
 
 
-### Research
 
 #### Research simplified
  
