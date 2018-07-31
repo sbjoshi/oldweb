@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-#### News  
+### News  
 
 
 * **Open-WBO** won 1 gold and 1 silver at the [MaxSAT 2018 evaluations](https://maxsat-evaluations.github.io/2018/).
