@@ -35,6 +35,7 @@ layout: page
 1. R K Shyamasundar and Sanjeev Aggarwal,_"A New Method of MHP Analysis for Languages with Dynamic Barriers"_, 17th International Workshop on High-Level Parallel Programming Models and Supportive Environments (HIPS) 2012. 
 
 1. Shuvendu K. Lahiri and Akash Lal, _"Underspecified Harness and Interleaved Bugs"_, Symposium on Principles of Programming Languages (POPL) 2012. 
+
 1. Shivali Agarwal and R K Shyamasundar, _"Distributed Generalized Dynamic Barrier Synchronization"_, International Conference on Distributed Computing and Networking (ICDCN) 2011.
 
 1. Frederic Doucet, R.K. Shyamasundar, Ingolf H. Krueger and Rajesh K. Gupta, _"Reactivity in SystemC Transaction-Level Models"_, Haifa Verification Conference (HVC) 2007.
