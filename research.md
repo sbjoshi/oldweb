@@ -4,7 +4,7 @@ layout: page
 
 
 
-#### Research simplified
+### Research simplified
  
 An essential part of science is to be able to explain your work in simple terms to others. Here are some simple explanations by some of my students about their work in their own words.
 
@@ -15,7 +15,7 @@ An essential part of science is to be able to explain your work in simple terms 
 ---
 
 
-#### Research Interests
+### Research Interests
 
 
 Formal verification, automated repair, model-checking,
@@ -25,7 +25,7 @@ concurrent programs, program analysis and constraint solving
 ---
 
 
-#### Patent
+### Patent
 
 
 1. Saurabh Joshi, Shuvendu Lahiri and Akash Lal, _"REDUCING FALSE ALARMS FOR STATIC ANALYSIS OF CONCURRENT PROGRAMS"_, US Patent No : 8793664.
@@ -34,14 +34,14 @@ concurrent programs, program analysis and constraint solving
 ---
 
 
-#### Sponsored Project
+### Sponsored Project
 
 1. DST Early Career Research Award for _"Scope Enrichment of Verification Technologies"_ 2017-2020 (INR 22.5 lakh)
 
 ---
 
 
-#### Tools
+### Tools
 
 
 ##### **VerifOx**
