@@ -68,7 +68,7 @@ __a second place__ for partial MaxSAT category for __industrial benchmarks__. It
 
 
 
-##### **Summarizer (aka 2LS) **
+##### **Summarizer (aka 2LS)**
 
 
 [summarizer](http://www.cprover.org/wiki/doku.php?id=2ls_for_program_analysis) is a software verifier for C programs which uses a holistic combination of bounded model-checking,
