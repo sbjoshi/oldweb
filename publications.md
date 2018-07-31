@@ -13,7 +13,7 @@ layout: page
 
 ##### With :
 
-1. Prateek Kumar, Ruben Martins, and Sukrut Rao, _"Approximation Strategies for Incomplete MaxSAT"_, (CP) 2018. [[arXiv](https://arxiv.org/pdf/1806.07164.pdf)]
+1. Prateek Kumar, Ruben Martins, and Sukrut Rao, _"Approximation Strategies for Incomplete MaxSAT"_, 24th International Conference on Principles and Practice of Constraint Programming (CP) 2018. [[arXiv](https://arxiv.org/pdf/1806.07164.pdf)]
 
 1. Subramaniam Kalyanasundaram, Anjaneya Swami Kare, and Bhyravarapu Sriram, _"On the Tractability of (k,i)-coloring"_, (CALDAM) 2018. [[arXiv](https://arxiv.org/pdf/1802.03634.pdf)]
 
