@@ -15,7 +15,7 @@ layout: page
 * Constraint Solving (CS 6400, CS6403) : Aug-Sep 2016, Aug-Oct 2017
 * Software Verification (CS 6410) : Jan-Apr 2017, Jan-Apr 2018 
 
-
+---
 
 ### Mentoring
 
