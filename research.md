@@ -43,20 +43,6 @@ concurrent programs, program analysis and constraint solving
 
 ### Tools
 
-
-##### **VerifOx**
-
-VerifOx is a symbolic execution engine built on top of [CPROVER](http://www.cprover.org) framework. It is especially optimized
-for behaviourally equivalent C programs that are generated from Verilog circuits. [paper](https://arxiv.org/pdf/1609.00169.pdf)
-
-##### **CBMC-Repair**
-
-
-[CBMC-Repair](http://www.cprover.org/glue) is built on top of [CPROVER](http://www.cprover.org) model-checking
-frame work which suggests optimum fence placement in a C program. [paper](http://arxiv.org/abs/1407.7443)
-
-
-
 ##### **Open-WBO**
 
 
@@ -67,6 +53,12 @@ __a second place__ for partial MaxSAT category for __industrial benchmarks__. It
 
 
 
+
+##### **VerifOx**
+
+VerifOx is a symbolic execution engine built on top of [CPROVER](http://www.cprover.org) framework. It is especially optimized
+for behaviourally equivalent C programs that are generated from Verilog circuits. [paper](https://arxiv.org/pdf/1609.00169.pdf)
+
 ##### **Summarizer (aka 2LS)**
 
 
@@ -74,6 +66,14 @@ __a second place__ for partial MaxSAT category for __industrial benchmarks__. It
 k-induction and abstract interpretation. [paper](http://arxiv.org/abs/1506.05671) 
 *summarizer* aka *2LS* won gold in floating point category
 at [SVCOMP 2016](http://sv-comp.sosy-lab.org/2016/results/results-verified/)
+
+
+##### **CBMC-Repair**
+
+
+[CBMC-Repair](http://www.cprover.org/glue) is built on top of [CPROVER](http://www.cprover.org) model-checking
+frame work which suggests optimum fence placement in a C program. [paper](http://arxiv.org/abs/1407.7443)
+
 
 
 
