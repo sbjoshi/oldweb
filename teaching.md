@@ -13,16 +13,24 @@ layout: page
 #### Postgraduate
 
 * Constraint Solving (CS 6400, CS6403) : Aug-Sep 2016, Aug-Oct 2017
-* Software Verification (CS 6410) : Jan-Apr 2017, Jan-Apr 2018 
+* Software Verification (CS 6410) : Jan-Apr 2017, Jan-Apr 2018, Jul-Nov 2018
 
 
 ### Mentoring
 
+#### PhD
+
 * Gautam Muduganti - PhD Candidate - (Jan 2017--Present)
+
+#### Masters
+
 * Uttaran Sinha - MTech - (July 2017--Present)
 * Eti Chaudhary - MTech RA - (July 2017--Present)
 * Arpit Aggarwal - MTech (IIT Delhi, co-advised with Dr. Subodh Sharma) - _GoProver: a bounded model-checker for GO_ 
 * Rasika Sapate - MTech - _LLVM2GOTO: A translator from LLVM IR to CPROVER IR_ - (July 2016--July 2018) - now at Mentor Graphics
+
+#### Undergraduates
+
 * Sukrut Rao - BTech - Research Internship 
 * Prateek Kumar - BTech - Research Internship
 * Nidhi Dhamnani - BTech - Research Internship - _Optimizing SAT Solver for push/pop queries_ - (July 2017--Nov 2017)
