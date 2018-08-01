@@ -2,7 +2,8 @@
 layout: page
 ---
 
-### Publications
+
+# Publications
 
 
 ---
@@ -12,11 +13,11 @@ layout: page
 
 ##### With :
 
-1. Prateek Kumar, Ruben Martins, and Sukrut Rao, _"Approximation Strategies for Incomplete MaxSAT"_, (CP) 2018. [[arXiv](https://arxiv.org/pdf/1806.07164.pdf)]
+1. Prateek Kumar, Ruben Martins, and Sukrut Rao, _"Approximation Strategies for Incomplete MaxSAT"_, 24th International Conference on Principles and Practice of Constraint Programming (CP) 2018. [[arXiv](https://arxiv.org/pdf/1806.07164.pdf)]
 
 1. Subramaniam Kalyanasundaram, Anjaneya Swami Kare, and Bhyravarapu Sriram, _"On the Tractability of (k,i)-coloring"_, (CALDAM) 2018. [[arXiv](https://arxiv.org/pdf/1802.03634.pdf)]
 
-1. Vojtech Forejt, Daniel Kroening, Ganesh Narayanaswamy and Subodh Sharma, _"Precise Predictive Analysis for Discovering Communication Deadlocks in MPI Programs"_, (TOPLAS) 2017. [[pre-print](papers/toplas2017-mpi.pdf)]
+1. Vojtech Forejt, Daniel Kroening, Ganesh Narayanaswamy and Subodh Sharma, _"Precise Predictive Analysis for Discovering Communication Deadlocks in MPI Programs"_, (TOPLAS) 2017. [[pre-print](toplas2017-mpi.pdf)]
 
 1. Rajdeep Mukherjee, Andreas Griesmayer, Daniel Kroening and Tom Melham, _"Equivalence Checking of a Floating-point Unit Against a High-level C Model"_ (FM) 2016. [[arXiv](https://arxiv.org/pdf/1609.00169v1.pdf)]
 
@@ -35,6 +36,7 @@ layout: page
 1. R K Shyamasundar and Sanjeev Aggarwal,_"A New Method of MHP Analysis for Languages with Dynamic Barriers"_, 17th International Workshop on High-Level Parallel Programming Models and Supportive Environments (HIPS) 2012. 
 
 1. Shuvendu K. Lahiri and Akash Lal, _"Underspecified Harness and Interleaved Bugs"_, Symposium on Principles of Programming Languages (POPL) 2012. 
+
 1. Shivali Agarwal and R K Shyamasundar, _"Distributed Generalized Dynamic Barrier Synchronization"_, International Conference on Distributed Computing and Networking (ICDCN) 2011.
 
 1. Frederic Doucet, R.K. Shyamasundar, Ingolf H. Krueger and Rajesh K. Gupta, _"Reactivity in SystemC Transaction-Level Models"_, Haifa Verification Conference (HVC) 2007.
