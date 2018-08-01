@@ -21,9 +21,13 @@ layout: page
 
 ### Mentoring
 
+---
+
 #### PhD
 
 * Gautam Muduganti - PhD Candidate - (Jan 2017--Present)
+
+---
 
 #### Masters
 
@@ -32,6 +36,8 @@ layout: page
 * Arpit Aggarwal - MTech (IIT Delhi, co-advised with Dr. Subodh Sharma) - _GoProver: a bounded model-checker for GO_ 
 * Rasika Sapate - MTech - _LLVM2GOTO: A translator from LLVM IR to CPROVER IR_ - (July 2016--July 2018) - now at Mentor Graphics
 
+---
+
 #### Undergraduates
 
 * Sukrut Rao - BTech - Research Internship 
@@ -39,4 +45,4 @@ layout: page
 * Nidhi Dhamnani - BTech - Research Internship - _Optimizing SAT Solver for push/pop queries_ - (July 2017--Nov 2017)
 * B Shreya - BTech - Research Internship - _Optimizing SAT Solver for push/pop queries_ -(July 2017--Nov2017)
 
-
+---
