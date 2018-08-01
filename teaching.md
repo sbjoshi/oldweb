@@ -41,7 +41,7 @@ layout: page
 #### Undergraduates
 
 * Sukrut Rao - BTech - Research Internship 
-* Prateek Kumar - BTech - Research Internship
+* [Prateek Kumar](https://prateekkumar.in) - BTech - Research Internship
 * Nidhi Dhamnani - BTech - Research Internship - _Optimizing SAT Solver for push/pop queries_ - (July 2017--Nov 2017)
 * B Shreya - BTech - Research Internship - _Optimizing SAT Solver for push/pop queries_ -(July 2017--Nov2017)
 
