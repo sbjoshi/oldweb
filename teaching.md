@@ -31,6 +31,7 @@ layout: page
 
 #### Masters
 
+* Akash Banerjee - MTech RA - (July 24018--Present)
 * Uttaran Sinha - MTech - (July 2017--Present)
 * Eti Chaudhary - MTech RA - (July 2017--Present)
 * Arpit Aggarwal - MTech (IIT Delhi, co-advised with Dr. Subodh Sharma) - _GoProver: a bounded model-checker for GO_ 
