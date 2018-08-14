@@ -8,8 +8,8 @@ I did my undergraduate studies at [GCET](http://www.gcet.ac.in), [Sardar Patel U
 
 #### Erdos Number
 
-Paul Erdos -> Vojtech Rodl -> Subramanyam Kalyanasundaram -> Saurabh Joshi
+Paul Erdős  -> Vojtech Rodl -> Subramanyam Kalyanasundaram -> Saurabh Joshi
 
-Erdos Number = 3
+Erdős Number = 3
 
 
