@@ -6,6 +6,9 @@ excerpt: "About Me..."
 ### News  
 
 
+* Please participate in the [Third Indian SAT+SMT School](http://sat-smt.in), to be held in [IIIT Hyderabad](https://iiit.ac.in) from **December6-8,2018**.
+
+
 * **Open-WBO** won 1 gold and 1 silver at the [MaxSAT 2018 evaluations](https://maxsat-evaluations.github.io/2018/).
 * Paper on _"Approximation Strategies for Incomplete MaxSAT"_ accepted at CP 2018.
 * **Open-WBO** won 2 gold and 1 silver at the [MaxSAT 2017 evaluations](http://mse17.cs.helsinki.fi/).
