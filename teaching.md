@@ -34,8 +34,8 @@ layout: page
 * Akash Banerjee - MTech RA - (July 24018--Present)
 * Uttaran Sinha - MTech - (July 2017--Present)
 * Eti Chaudhary - MTech RA - (July 2017--Present)
-* Arpit Aggarwal - MTech (IIT Delhi, co-advised with Dr. Subodh Sharma) - _GoProver: a bounded model-checker for GO_ 
-* Rasika Sapate - MTech - _LLVM2GOTO: A translator from LLVM IR to CPROVER IR_ - (July 2016--July 2018) - now at Mentor Graphics
+* Arpit Aggarwal - MTech (IIT Delhi, co-advised with Dr. Subodh Sharma) - _GoProver: a bounded model-checker for GO_ - (July 2017--July 2018) - now at Oracle, Bangalore
+* Rasika Sapate - MTech - _LLVM2GOTO: A translator from LLVM IR to CPROVER IR_ - (July 2016--July 2018) - now at Mentor Graphics, Hyderabad
 
 ---
 
