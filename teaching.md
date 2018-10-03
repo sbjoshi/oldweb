@@ -41,7 +41,6 @@ layout: page
 
 #### Undergraduates
 
-* Parinay Aggarwal - BTech - Mini Project - _Improving LLVM2GOTO_
 * Gitanjali Mannepalli - BTech - Mini Project - _Proving program correctness using Coq_
 * Sukrut Rao - BTech - Research Internship - _Improving MaxSAT Solving_
 * [Prateek Kumar](https://prateekkumar.in) - BTech - _Improving MaxSAT Solving_
