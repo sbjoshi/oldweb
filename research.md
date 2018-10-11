@@ -48,8 +48,18 @@ concurrent programs, program analysis and constraint solving
 
 
 [Open-WBO](http://sat.inesc-id.pt/open-wbo/) is an open source MaxSAT solver which can use any [MiniSAT](http://www.minisat.se) like off-the-shelf SAT solver underneath.
-Open-WBO __won 2 gold and 1 silver in the MaxSAT 2017 evaluations__. It also __won the MaxSAT 2014 evaluations__ for unweighted MaxSAT category for __industrial benchmarks__. It also secured
-__a second place__ for partial MaxSAT category for __industrial benchmarks__. It was __ranked secnd and third__ for various categories of benchmarks in __[Pseudo-Boolean Competition 2016](http://www.cril.univ-artois.fr/PB16/)__. Relevant papers are  [here](http://arxiv.org/abs/1408.4628) and [here](https://arxiv.org/pdf/1507.05920.pdf).
+
+Accolades won by OpenWBO:
+
+* MaxSAT Evaluations 2018: 1 Gold medal, 1 Silver medal
+* MaxSAT Evaluations 2017: 2 Gold medals, 1 Silver medal
+* MaxSAT Evaluations 2016: 1 Gold medal, 1 Silver medal, 1 Bronze medal
+* Pseudo-Boolean Evaluations 2016: 2 Silver medals, 2 Bronze medals
+* MaxSAT Evaluations 2015 : 1 Gold medal, 1 Silver medal
+* MaxSAT Floc Olympic Games 2014: 2 Gold medals
+* MaxSAT Evaluations 2014: 1 Gold medal, 1 Silver medal
+
+Relevant papers are  [here](http://arxiv.org/abs/1408.4628),  [here](https://arxiv.org/pdf/1507.05920.pdf) and [here](https://arxiv.org/pdf/1806.07164.pdf).
 
 
 
