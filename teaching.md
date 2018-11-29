@@ -42,7 +42,7 @@ layout: page
 #### Undergraduates
 
 * Gitanjali Mannepalli - BTech - Mini Project - _Proving program correctness using Coq_
-* Sukrut Rao - BTech - Research Internship - _Improving MaxSAT Solving_
+* [Sukrut Rao](https://sukrutrao.github.io) - BTech - Research Internship - _Improving MaxSAT Solving_
 * [Prateek Kumar](https://prateekkumar.in) - BTech - _Improving MaxSAT Solving_
 * Nidhi Dhamnani - BTech - Research Internship - _Optimizing SAT Solver for push/pop queries_ - (July 2017--Nov 2017)
 * B Shreya - BTech - Research Internship - _Optimizing SAT Solver for push/pop queries_ -(July 2017--Nov2017)
