@@ -8,7 +8,6 @@ excerpt: "About Me..."
 
 * [Pinaka](https://github.com/sbjoshi/Pinaka) secured 2nd place in ReachSafety-Floats subcategory in [SVCOMP 2019](https://sv-comp.sosy-lab.org/2019/).
 * Please participate in the [Third Indian SAT+SMT School](http://sat-smt.in), to be held in [IIIT Hyderabad](https://iiit.ac.in) from **December6-8,2018**.
-
 * **Open-WBO** won 1 gold and 1 silver at the [MaxSAT 2018 evaluations](https://maxsat-evaluations.github.io/2018/).
 * Paper on _"Approximation Strategies for Incomplete MaxSAT"_ accepted at CP 2018.
 * **Open-WBO** won 2 gold and 1 silver at the [MaxSAT 2017 evaluations](http://mse17.cs.helsinki.fi/).
