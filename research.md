@@ -63,7 +63,7 @@ Relevant papers are  [here](http://arxiv.org/abs/1408.4628),  [here](https://arx
 
 ##### **Pinaka**
 
-[Pinaka](https://github.com/sbjoshi/Pinaka) (named after the bow of Lord Shiva) is a symbolic execution engine build on CPROVER/SYMEX framework.
+[Pinaka](https://github.com/sbjoshi/Pinaka) (named after the bow of Lord Shiva) is a symbolic execution engine built on top of  CPROVER/SYMEX framework.
 
 Accolade won by Pinaka:
 
