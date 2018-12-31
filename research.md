@@ -61,7 +61,13 @@ Accolades won by OpenWBO:
 
 Relevant papers are  [here](http://arxiv.org/abs/1408.4628),  [here](https://arxiv.org/pdf/1507.05920.pdf) and [here](https://arxiv.org/pdf/1806.07164.pdf).
 
+##### **Pinaka**
 
+[Pinaka](https://github.com/sbjoshi/Pinaka) (named after the bow of Lord Shiva) is a symbolic execution engine build on CPROVER/SYMEX framework.
+
+Accolade won by Pinaka:
+
+* 2nd place in ReachSafety-Floats subcategory in SVCOMP 2019.
 
 
 ##### **VerifOx**
