@@ -71,7 +71,6 @@ Accolade won by Pinaka:
 
 
 
-
 ##### **VerifOx**
 
 VerifOx is a symbolic execution engine built on top of [CPROVER](http://www.cprover.org) framework. It is especially optimized
