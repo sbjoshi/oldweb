@@ -9,9 +9,11 @@ layout: page
 ---
 
 
-#### Peer-reviewed research articles
+#### Peer-reviewed articles
 
 ##### With :
+
+1. Eti Chaudhary, _"Pinaka: Symbolic Execution meets Incremental Solving (Competition Contribution)"_, SVCOMP 2019, TOOLympics (TACAS 2019).
 
 1. Prateek Kumar, Ruben Martins, and Sukrut Rao, _"Approximation Strategies for Incomplete MaxSAT"_, 24th International Conference on Principles and Practice of Constraint Programming (CP) 2018. [[arXiv](https://arxiv.org/pdf/1806.07164.pdf)]
 
