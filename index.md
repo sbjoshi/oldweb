@@ -5,6 +5,9 @@ excerpt: "About Me..."
 
 ### News  
 
+* Participate in [_"Formal Methods Update Meeting 2019"_](https://fmindia.cmi.ac.in/update2019) to be held on 10-11 July at IIT Hyderabad.
+
+
 * Paper on _"Phase Transition Behavior of Cardinality and XOR Constraints"_ accepted at [IJCAI 2019](https://ijcai19.org/).
 * [**Pinaka**](https://github.com/sbjoshi/Pinaka) secured **2nd place** in ReachSafety-Floats subcategory in [**SVCOMP 2019**](https://sv-comp.sosy-lab.org/2019/).
 * Please participate in the [Third Indian SAT+SMT School](http://sat-smt.in), to be held in [IIIT Hyderabad](https://iiit.ac.in) from **December6-8,2018**.
