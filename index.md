@@ -5,7 +5,7 @@ excerpt: "About Me..."
 
 ### News  
 
-* Participate in [_"Formal Methods Update Meeting 2019"_](https://fmindia.cmi.ac.in/update2019) to be held on 10-11 July at IIT Hyderabad.
+* ~~Participate~~ Thanks for participating in [_"Formal Methods Update Meeting 2019"_](https://fmindia.cmi.ac.in/update2019) ~~to be~~ held on 10-11 July 2019 at IIT Hyderabad.
 
 
 * Paper on _"Phase Transition Behavior of Cardinality and XOR Constraints"_ accepted at [IJCAI 2019](https://ijcai19.org/).
