@@ -13,7 +13,7 @@ layout: page
 
 ##### With :
 
-1. Yash Pote and Kuldeep Singh Meel,_"Phase Transition Behavior of Cardinality and XOR Constraints"_, [IJCAI 2019](https://ijcai19.org/) (accepted).
+1. Yash Pote and Kuldeep Singh Meel,_"Phase Transition Behavior of Cardinality and XOR Constraints"_, [IJCAI 2019](https://ijcai19.org/) (accepted) [[pre-print](https://drive.google.com/file/d/0B8Q5wElP5-W-YlNEVlN2M094U1N5N3FpcXlRSlRsc282aWtr/view?usp=sharing)].
 
 1. Eti Chaudhary, _"Pinaka: Symbolic Execution meets Incremental Solving (Competition Contribution)"_, SVCOMP 2019, TOOLympics (TACAS 2019). [[arXiv](https://arxiv.org/pdf/1903.02309.pdf)]
 
