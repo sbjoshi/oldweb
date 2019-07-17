@@ -12,4 +12,12 @@ Paul Erdős  -> Vojtech Rodl -> Subramanyam Kalyanasundaram -> Saurabh Joshi
 
 Erdős Number = 3
 
+---
 
+#### Dijkstra Number
+
+Edsger W. Dijkstra -> Klaus Samelson -> Manfred Broy -> Ingolf Kruger -> Saurabh Joshi  
+
+Dijkstra Number = 4
+
+---
