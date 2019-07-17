@@ -51,6 +51,7 @@ concurrent programs, program analysis and constraint solving
 
 Accolades won by OpenWBO:
 
+* MaxSAT Evaluations 2019: 2 Bronze medal
 * MaxSAT Evaluations 2018: 1 Gold medal, 1 Silver medal
 * MaxSAT Evaluations 2017: 2 Gold medals, 1 Silver medal
 * MaxSAT Evaluations 2016: 1 Gold medal, 1 Silver medal, 1 Bronze medal
