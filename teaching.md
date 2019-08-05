@@ -25,15 +25,15 @@ layout: page
 
 #### PhD
 
-* Utpal Bora - PhD Candidate 
+* Utpal Bora - PhD Candidate (co-supervised with Dr. Ramakrishna Upadrasta)
 * Gautam Muduganti - PhD Candidate - (Jan 2017--Present)
 
 
 ---
 
 #### Masters
-* Aditya Kumar - MTech (May 2019--Present)
-* Sunil Sarode - MTech (May 2019--Present)
+* Aditya Kumar - MTech (co-advised with Dr. Ramakrishna Upadrasta) (May 2019--Present)
+* Sunil Sarode - MTech (co-advised with Dr. Ramakrishna Upadrasta) (May 2019--Present)
 * Akash Banerjee - MTech RA - (July 2018--Present)
 * Uttaran Sinha - MTech - (July 2017--July 2019)
 * Eti Chaudhary - MTech RA - (July 2017--Present)
