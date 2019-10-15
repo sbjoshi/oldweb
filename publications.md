@@ -57,7 +57,7 @@ layout: page
 
 
 ##### With :
-1. Ruben Martins, Vasco Manquinho, and Ines Lynce, _"Reflections on ""Incremental Cardinality Constraints for MaxSAT"" "_, Invited article for the _Virtual Volume_ created to celebrate 25 years 
+1. Ruben Martins, Vasco Manquinho, and Ines Lynce, _"Reflections on ""Incremental Cardinality Constraints for MaxSAT"" "_, Invited article for the _[Virtual Volume](https://freuder.wordpress.com/cp-anniversary-project/)_ created to celebrate 25 years 
 of CP. [[arXiv](https://arxiv.org/abs/1910.04643)]
 
 1. Akash Lal, _"Automatically finding atomic regions for fixing bugs in Concurrent programs"_, 2014. [[arXiv](http://arxiv.org/abs/1403.1749)]
