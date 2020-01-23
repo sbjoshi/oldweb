@@ -5,7 +5,8 @@ excerpt: "About Me..."
 
 ### News  
 
-* [**Pinaka**](https://github.com/Pinaka) secured **3rd place** in ReachSafety-Floats subcategory, __8th place__ in ReachSafety category and __6th place__ in Termination category at [**SVCOMP 2020**](https://sv-comp.sosy-lab.org/2020/)
+* HRD Minister's [encouraging tweet](https://twitter.com/DrRPNishank/status/1218154287735484416) about [**Pinaka**](https://github.com/sbjoshi/Pinaka)
+* [**Pinaka**](https://github.com/sbjoshi/Pinaka) secured **3rd place** in ReachSafety-Floats subcategory, __8th place__ in ReachSafety category and __6th place__ in Termination category at [**SVCOMP 2020**](https://sv-comp.sosy-lab.org/2020/)
 * ~~Participate~~ Thanks for participating in the [Fourth Indian SAT+SMT School](https://sat-smt.in).
 * **Open-WBO-Inc** won 2 bronze at the [MaxSAT Evaluations 2019](https://maxsat-evaluations.github.io/2019/).
 * ~~Participate~~ Thanks for participating in [_"Formal Methods Update Meeting 2019"_](https://fmindia.cmi.ac.in/update2019) ~~to be~~ held on 10-11 July 2019 at IIT Hyderabad.

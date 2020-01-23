@@ -67,7 +67,8 @@ Relevant papers are  [here](http://arxiv.org/abs/1408.4628),  [here](https://arx
 [Pinaka](https://github.com/sbjoshi/Pinaka) (named after the bow of Lord Shiva) is a symbolic execution engine built on top of  CPROVER/SYMEX framework.
 
 Accolade won by Pinaka:
-
+* 3rd place in ReachSafety-Floats subcategory, 8th in ReachSafety category and 6th in Termination category at SVCOMP 2020.  Fastest 
+ in all categories participated  whenever Pinaka produced answers for benchmarks.
 * 2nd place in ReachSafety-Floats subcategory in SVCOMP 2019.
 
 
