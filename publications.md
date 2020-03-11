@@ -13,9 +13,9 @@ layout: page
 
 ##### With :
 
-1. Prateek Kumar, Sukrut Rao, and Ruben Martins, _"Open-WBO-Inc: Approximation Strategies for Incomplete Weighted MaxSAT"_, Journal of Satisfiability, Boolean Modelling and Computation (JSAT) (accepted) [[paper](http://jsatjournal.org/volumes/upcoming/jsat11_4.pdf)]
+1. Prateek Kumar, Sukrut Rao, and Ruben Martins, _"Open-WBO-Inc: Approximation Strategies for Incomplete Weighted MaxSAT"_, Journal of Satisfiability, Boolean Modelling and Computation (JSAT), Vol. 11, pp. 73--97 [[paper](http://jsatjournal.org/volumes/upcoming/jsat11_4.pdf)]
 
-1. Yash Pote and Kuldeep Singh Meel,_"Phase Transition Behavior of Cardinality and XOR Constraints"_, [IJCAI 2019](https://ijcai19.org/) (accepted) [[pre-print](https://drive.google.com/file/d/0B8Q5wElP5-W-YlNEVlN2M094U1N5N3FpcXlRSlRsc282aWtr/view?usp=sharing)].
+1. Yash Pote and Kuldeep Singh Meel,_"Phase Transition Behavior of Cardinality and XOR Constraints"_, [IJCAI 2019](https://ijcai19.org/)  [[pre-print](https://drive.google.com/file/d/0B8Q5wElP5-W-YlNEVlN2M094U1N5N3FpcXlRSlRsc282aWtr/view?usp=sharing)].
 
 1. Eti Chaudhary, _"Pinaka: Symbolic Execution meets Incremental Solving (Competition Contribution)"_, SVCOMP 2019, TOOLympics (TACAS 2019). [[arXiv](https://arxiv.org/pdf/1903.02309.pdf)]
 
