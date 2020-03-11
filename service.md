@@ -10,7 +10,7 @@ layout: page
 
 
 
-##### Services to the research community
+#### Services to the research/academic community
 
 
 * Associate Editor, [Sadhana](https://www.ias.ac.in/sadhana/), a journal of Indian Academy of Sciences (2018--Present)
@@ -19,7 +19,7 @@ layout: page
 * Organizer, Formal Methods Update Meeting 2019
 * PC/AEC Member, CAV 2019
 * PC Member, PhD Symposium, ISEC 2019
-* Organizer, [Third Indian SAT+SMT School](https://sat-smt.in/2018)
+* Organizer, [Third Indian SAT+SMT School](https://sat-smt-ws.gitlab.io/2018/)
 * PC/AEC Member, CAV 2018
 * PC Member, IDRBT Doctoral Colloquium 2017
 * PC Member, ACM Compute 2017
