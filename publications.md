@@ -66,6 +66,7 @@ layout: page
 
 
 ##### With :
+1. Utpal Bora, Santanu Das, Pankaj Kukreja, Ramakrishna Upadrasta and Sanjay Rajopadhye, _"LLOV: A Fast Static Data-Race Checker for OpenMP Programs"_, 2019. [[arXiv](https://arxiv.org/abs/1912.12189)]
 1. Ruben Martins, Vasco Manquinho, and Ines Lynce, _"Reflections on ""Incremental Cardinality Constraints for MaxSAT"" "_, Invited article for the _[Virtual Volume](https://freuder.wordpress.com/cp-anniversary-project/)_ created to celebrate 25 years 
 of CP. [[arXiv](https://arxiv.org/abs/1910.04643)]
 
