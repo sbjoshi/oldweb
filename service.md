@@ -52,5 +52,5 @@ layout: page
 * Member, Faculty Search committee
 * Member, Teaching Assistants allocation committee
 * Member, PhD Admissions committee
-* Member, Department Post Graduate Committee
+* Former Member, Department Post Graduate Committee
 
