@@ -22,6 +22,7 @@ body {
 	border-bottom-style: solid;
 	border-bottom-color: $highlightcolor;
 	border-bottom-width: .5em;
+	a { color: #FFF ; }
 }
 
 /* Site name */
@@ -61,7 +62,6 @@ body {
 	@media #{$x-large} {
 		@include grid(12,8);
 	}
-	a { color: #FFF; }
 	}
 	ul {
 		margin: 0;
