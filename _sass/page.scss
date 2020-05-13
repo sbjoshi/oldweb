@@ -61,6 +61,8 @@ body {
 	@media #{$x-large} {
 		@include grid(12,8);
 	}
+	a { color: #FFF; }
+	}
 	ul {
 		margin: 0;
 		padding: 0;
@@ -82,7 +84,6 @@ body {
 			white-space: nowrap;
 			border-bottom: 0 solid transparent;
 		}
-		a.register:link {color:#FFF; }
 		a {
 			display: block;
 			padding: 10px 0;
