@@ -33,7 +33,7 @@ layout: page
 
 #### Services to IIT Hyderabad
 
-* Faculty-in-Charge, Server Management (Email, DNS, LDAP, Web services, Virtualization etc.) (Nov 2019--Present)
+* Faculty-in-Charge, Server Management (Cyber security, Email/ DNS/ Authentication/ Web services, Virtualization etc.) (Nov 2019--Present)
 * Institute Website redesign team
 * Supervising the design and development of IITH [Timetabler](https://github.com/sukrutrao/Timetabler)
 * Supervising automation of R&D procurement portal
