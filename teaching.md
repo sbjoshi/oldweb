@@ -32,12 +32,13 @@ layout: page
 ---
 
 #### Masters
-* Aditya Kumar - MTech (co-advised with Dr. Ramakrishna Upadrasta) (May 2019--Present)
-* Sunil Sarode - MTech (co-advised with Dr. Ramakrishna Upadrasta) (May 2019--Present)
+* Archit Sanghi - MTech - (July 2020--Present)
 * Akash Banerjee - MTech RA - (July 2018--Present)
-* Uttaran Sinha - MTech - (July 2017--July 2019)
-* Eti Chaudhary - MTech RA - (July 2017--Present)
-* Arpit Aggarwal - MTech (IIT Delhi, co-advised with Dr. Subodh Sharma) - _GoProver: a bounded model-checker for GO_ - (July 2017--July 2018) - now at Oracle, Bangalore
+* Aditya Kumar - MTech (co-advised with Dr. Ramakrishna Upadrasta) (May 2019--July 2020)
+* Sunil Sarode - MTech (co-advised with Dr. Ramakrishna Upadrasta) (May 2019--July 2020)
+* Uttaran Sinha - MTech - _Defending Neural Networks against Structural Perturbations_ - (July 2017--July 2019)
+* [Eti Chaudhary](https://etichaudhary.github.io) - _Verification of Programs_ - MTech RA - (July 2017--July 2020) - now at Goldman Sachs, Bengaluru.
+* Arpit Aggarwal - MTech (IIT Delhi, co-advised with Dr. Subodh Sharma) - _GoProver: a bounded model-checker for GO_ - (July 2017--July 2018) - now at Oracle, Bengaluru
 * Rasika Sapate - MTech - _LLVM2GOTO: A translator from LLVM IR to CPROVER IR_ - (July 2016--July 2018) - now at Mentor Graphics, Hyderabad
 
 ---
@@ -46,7 +47,7 @@ layout: page
 
 * Gitanjali Mannepalli - BTech - Mini Project - _Proving program correctness using Coq_ (July 2018--Nov 2018)
 * [Sukrut Rao](https://sukrutrao.github.io) - BTech - Research Internship - _Improving MaxSAT Solving_ - now PhD candidate at Max Planck Institute, Germany
-* [Prateek Kumar](https://prateekkumar.in) - BTech - _Improving MaxSAT Solving_ - (Dec 2017--May 2019) - now at AQR Capital Management, Bangalore
+* [Prateek Kumar](https://prateekkumar.in) - BTech - _Improving MaxSAT Solving_ - (Dec 2017--May 2019) - now at AQR Capital Management, Bengaluru
 * Nidhi Dhamnani - BTech - Research Internship - _Optimizing SAT Solver for push/pop queries_ - (July 2017--Nov 2017) - now at Goldman Sachs, Bangalore
 * B Shreya - BTech - Research Internship - _Optimizing SAT Solver for push/pop queries_ -(July 2017--Nov2017) - now as Software Development Engineer at Swiggy, Bangalore
 
