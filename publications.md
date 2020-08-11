@@ -13,7 +13,7 @@ layout: page
 
 ##### With :
 
-1. Bhyravarapu Sriram, Subramaniam Kalyanasundaram and Anjeneya Swami Kare, _"On the Tractability of (k,i)-coloring"_, Discrete Applied Mathematics (DAM) (accepted).
+1. Bhyravarapu Sriram, Subramaniam Kalyanasundaram and Anjeneya Swami Kare, _"On the Tractability of (k,i)-coloring"_, Discrete Applied Mathematics (DAM) (accepted). [[arXiv](https://arxiv.org/pdf/1802.03634.pdf)]
 
 1. Prateek Kumar, Sukrut Rao, and Ruben Martins, _"Open-WBO-Inc: Approximation Strategies for Incomplete Weighted MaxSAT"_, Journal of Satisfiability, Boolean Modelling and Computation (JSAT), Vol. 11, pp. 73--97 [[paper](https://content.iospress.com/download/journal-on-satisfiability-boolean-modeling-and-computation/sat190118?id=journal-on-satisfiability-boolean-modeling-and-computation%2Fsat190118)]
 
@@ -24,7 +24,7 @@ layout: page
 1. Prateek Kumar, Ruben Martins, and Sukrut Rao, _"Approximation Strategies for Incomplete MaxSAT"_, 24th International Conference on Principles and Practice of Constraint Programming (CP) 2018. [[arXiv](https://arxiv.org/pdf/1806.07164.pdf)] ([CORE](http://portal.core.edu.au/conf-ranks/) A)
 
 
-1. Subramaniam Kalyanasundaram, Anjaneya Swami Kare, and Bhyravarapu Sriram, _"On the Tractability of (k,i)-coloring"_, (CALDAM) 2018. [[arXiv](https://arxiv.org/pdf/1802.03634.pdf)]
+1. Subramaniam Kalyanasundaram, Anjaneya Swami Kare, and Bhyravarapu Sriram, _"On the Tractability of (k,i)-coloring"_, (CALDAM) 2018. [[arXiv](https://arxiv.org/pdf/1802.03634v1.pdf)]
 
 1. Vojtech Forejt, Daniel Kroening, Ganesh Narayanaswamy and Subodh Sharma, _"Precise Predictive Analysis for Discovering Communication Deadlocks in MPI Programs"_, (TOPLAS) 2017. [[pre-print](toplas2017-mpi.pdf)] ([CORE](http://portal.core.edu.au/conf-ranks/) A*)
 
