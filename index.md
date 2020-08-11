@@ -5,6 +5,7 @@ excerpt: "About Me..."
 
 ### News  
 
+* Extended version of paper _"On the Tractability of (k,i)-coloring"_ accepted in the journal [Discrete Applied Mathematics](https://www.journals.elsevier.com/discrete-applied-mathematics).
 * My blog post titled  _"[Pinaka: Symbolic Execution meets Incremental Solving](https://acm-fm-blog.blogspot.com/2020/04/pinaka-symbolic-execution-meets.html)"_ on [ACM India Formal Methods Blog](https://acm-fm-blog.blogspot.com/).
 * HRD Minister's [encouraging tweet](https://twitter.com/DrRPNishank/status/1218154287735484416) about [**Pinaka**](https://github.com/sbjoshi/Pinaka)
 * [**Pinaka**](https://github.com/sbjoshi/Pinaka) secured **3rd place** in ReachSafety-Floats subcategory, __8th place__ in ReachSafety category and __6th place__ in Termination category at [**SVCOMP 2020**](https://sv-comp.sosy-lab.org/2020/)

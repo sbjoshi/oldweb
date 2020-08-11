@@ -13,6 +13,8 @@ layout: page
 
 ##### With :
 
+1. Bhyravarapu Sriram, Subramaniam Kalyanasundaram and Anjeneya Swami Kare, _"On the Tractability of (k,i)-coloring"_, Discrete Applied Mathematics (DAM) (accepted).
+
 1. Prateek Kumar, Sukrut Rao, and Ruben Martins, _"Open-WBO-Inc: Approximation Strategies for Incomplete Weighted MaxSAT"_, Journal of Satisfiability, Boolean Modelling and Computation (JSAT), Vol. 11, pp. 73--97 [[paper](https://content.iospress.com/download/journal-on-satisfiability-boolean-modeling-and-computation/sat190118?id=journal-on-satisfiability-boolean-modeling-and-computation%2Fsat190118)]
 
 1. Yash Pote and Kuldeep Singh Meel,_"Phase Transition Behavior of Cardinality and XOR Constraints"_, [IJCAI 2019](https://ijcai19.org/)  [[pre-print](https://drive.google.com/file/d/0B8Q5wElP5-W-YlNEVlN2M094U1N5N3FpcXlRSlRsc282aWtr/view?usp=sharing)]. ([CORE](http://portal.core.edu.au/conf-ranks/) A*)
