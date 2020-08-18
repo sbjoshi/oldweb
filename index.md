@@ -5,6 +5,7 @@ excerpt: "About Me..."
 
 ### News  
 
+* Paper titled _"LLOV: A Fast Static Data-Race Checker for OpenMP Programs"_ got accepted in [ACM Transactions on Architecture and Code Optimization (TACO)](https://dl.acm.org/journal/taco)
 * Extended version of paper _"On the Tractability of (k,i)-coloring"_ accepted in the journal [Discrete Applied Mathematics](https://www.journals.elsevier.com/discrete-applied-mathematics).
 * My blog post titled  _"[Pinaka: Symbolic Execution meets Incremental Solving](https://acm-fm-blog.blogspot.com/2020/04/pinaka-symbolic-execution-meets.html)"_ on [ACM India Formal Methods Blog](https://acm-fm-blog.blogspot.com/).
 * HRD Minister's [encouraging tweet](https://twitter.com/DrRPNishank/status/1218154287735484416) about [**Pinaka**](https://github.com/sbjoshi/Pinaka)

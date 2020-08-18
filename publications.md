@@ -13,6 +13,8 @@ layout: page
 
 ##### With :
 
+1. Utpal Bora, Santanu Das, Pankaj Kukreja, Ramakrishna Upadrasta and Sanjay Rajopadhye, _"LLOV: A Fast Static Data-Race Checker for OpenMP Programs"_, ACM Transactions on Architecture and Code Optimization (TACO)  2020 (accepted). [[arXiv](https://arxiv.org/abs/1912.12189)]
+
 1. Bhyravarapu Sriram, Subramaniam Kalyanasundaram and Anjeneya Swami Kare, _"On the Tractability of (k,i)-coloring"_, Discrete Applied Mathematics (DAM) (accepted). [[arXiv](https://arxiv.org/pdf/1802.03634.pdf)]
 
 1. Prateek Kumar, Sukrut Rao, and Ruben Martins, _"Open-WBO-Inc: Approximation Strategies for Incomplete Weighted MaxSAT"_, Journal of Satisfiability, Boolean Modelling and Computation (JSAT), Vol. 11, pp. 73--97 [[paper](https://content.iospress.com/download/journal-on-satisfiability-boolean-modeling-and-computation/sat190118?id=journal-on-satisfiability-boolean-modeling-and-computation%2Fsat190118)]
@@ -68,7 +70,6 @@ layout: page
 
 
 ##### With :
-1. Utpal Bora, Santanu Das, Pankaj Kukreja, Ramakrishna Upadrasta and Sanjay Rajopadhye, _"LLOV: A Fast Static Data-Race Checker for OpenMP Programs"_, 2019. [[arXiv](https://arxiv.org/abs/1912.12189)]
 1. Ruben Martins, Vasco Manquinho, and Ines Lynce, _"Reflections on ""Incremental Cardinality Constraints for MaxSAT"" "_, Invited article for the _[Virtual Volume](https://freuder.wordpress.com/cp-anniversary-project/)_ created to celebrate 25 years 
 of CP. [[arXiv](https://arxiv.org/abs/1910.04643)]
 
